@@ -6,7 +6,8 @@ Help an organization to improve employee performance and improve employee retent
 Project Learning:
 Identified key factors to reduce attrition.
 
-Building the Power BI Dashboard: A Step-by-Step Approach: 
+Building the Power BI Dashboard: A Step-by-Step Approach:
+
 Step 1: Import data in Power BI
 Imported the necessary data into Power BI for analysis and visualization.
 
